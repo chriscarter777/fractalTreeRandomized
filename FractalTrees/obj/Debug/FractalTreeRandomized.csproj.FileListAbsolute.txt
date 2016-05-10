@@ -1,0 +1,14 @@
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTreeRandomized.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\App.g.cs
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees_MarkupCompile.cache
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees_MarkupCompile.lref
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees.exe
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees.pdb
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\bin\Debug\FractalTrees.exe.config
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\bin\Debug\FractalTrees.exe
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\bin\Debug\FractalTrees.pdb
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\MainWindow.baml
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees.g.resources
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTrees.Properties.Resources.resources
+C:\Users\Owner\Projects\FractalTreeRandomized\FractalTrees\obj\Debug\FractalTreeRandomized.csproj.GenerateResource.Cache
